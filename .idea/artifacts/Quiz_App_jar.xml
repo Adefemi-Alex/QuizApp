@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Quiz App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quiz_App_jar</output-path>
+    <root id="archive" name="Quiz App.jar">
+      <element id="module-output" name="Quiz App" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
